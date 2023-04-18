@@ -1,0 +1,27 @@
+*
+{
+                 margin: 0px;
+}
+
+body
+{
+                 background-image: url("./imagem/fundo.jpg");
+                 background-size: cover;
+}
+
+img
+{
+                 width: 50%;
+                 position: absolute;
+                 margin-top: 10%;
+                 margin-left: 27%;
+}
+
+iframe#tela
+{
+                 margin-left: 33%;
+                 margin-top: 14%;
+                 width: 38%;
+                 height: 43vh;
+                 position: relative;
+}
