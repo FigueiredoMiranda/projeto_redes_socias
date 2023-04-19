@@ -25,3 +25,26 @@ iframe#tela
                  height: 43vh;
                  position: relative;
 }
+
+section img
+{
+                 width: 4%;
+                 margin: 11px;
+                 left: -12%;
+                 top: -15vh;
+                 position: relative;
+                 border-radius: 50%;
+                 box-sizing: border-box;
+}
+
+section img:hover
+{
+                 transition: translate(-3px,-3px);
+                 border: 2px solid rgba(255, 255, 255, 0.459);
+}
+
+section
+{
+                 text-align: right;
+                 margin-top: -15%;
+}
